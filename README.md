@@ -2,8 +2,10 @@
 
 ![readme image](./.github/assets/readme.jpg)
 
-For now, adds a room to the White Orchard Inn where you can sleep in a bed and access your stash.
+For now, adds a room to the White Orchard Inn where you can sleep in a bed and access your stash. The plan is to add more rooms/beds in more places.
 
-I hope to add "sleepable" beds/rooms to more places in the game, as well as making it so that sleeping in such places gives you buffs (e.g. an inn with stables gives you that bonus).
+Sleeping gives you a max health bonus depending on bed level (very poor grants none, poor a little, rich a lot, etc.).
+
+Inns with stables grant a stamina bonus for Roach.
 
 [Install on Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=3233915879)
